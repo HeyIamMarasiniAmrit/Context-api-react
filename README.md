@@ -1,5 +1,5 @@
 # React + Vite
-
+![cpa](https://github.com/HeyIamMarasiniAmrit/Context-api-react/assets/101445427/24192f81-8b2c-43a4-9217-08a6ea49b937)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
